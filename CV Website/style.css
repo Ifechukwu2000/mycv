@@ -1,0 +1,108 @@
+body{
+    margin: 50px;
+    padding: 0;
+    box-sizing: border-box;
+}
+#intial{
+    font-size: 150px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-between;
+}
+#name{
+    margin-top: 50px;
+    margin-right: 600px;
+    font-size: 30px;
+    
+    
+}
+#top-summary{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#name p{
+    margin: 2px;
+    padding: 0;
+}
+#career-summary{
+    margin-left: 250px;
+}
+#flex-div p{
+    margin: 0;
+    padding: 0;
+}
+#career{
+    font-weight: 700;
+    display: inline;
+    font-size: 19px;
+}
+#career-summary .icon{
+    margin: 0;
+    padding: 0;
+    
+}
+#date{
+    font-size: 10px;
+}
+#educational-training{
+    margin-top: 100px;
+    margin-left: 450px;
+
+}
+#educational-training p{
+    margin: 10px;
+    padding: 0;
+    
+}
+#education{
+    font-weight: 900;
+    font-size: 20px;
+   
+}
+.training{
+    display: flex;
+}
+#zuri{
+    font-weight: 900;
+    font-size: 20px;
+}
+#train{
+    font-weight: 900;
+}
+#zuridate{
+    font-size: 12px;
+}
+#educa{
+    display: flex;
+}
+#member{
+    margin-left: 150px;
+}
+#educa p{
+    font-weight: 800;
+}
+#small{
+    font-size: 10px;
+}
+#skills{
+    margin-top: 100px;
+    margin-left: 450px;
+   
+}
+#main-skill{
+    font-weight: 900;
+    font-size: 20px;
+}
+#main-skill1{
+    display: flex;
+    justify-content: space-between;
+}
+#frame{
+    margin-right: 350px;
+}
+.bold-code{
+    font-weight: 900;
+}
